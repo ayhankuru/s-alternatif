@@ -31,7 +31,7 @@ var sa = salternatif();
 salternatif.search({artist:"Emre Aydın"},function(err,data){
     if(err) throw err
     else console.log(data);
-    { artist: 'Emre Aydın',
+    //{ artist: 'Emre Aydın',
      //lyrics: 
       //[ { id: '21805', title: 'Afili Yalnızlık' },
       //  { id: '248902', title: 'Akşamlarda Parmak İzlerin' },
