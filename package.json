@@ -1,0 +1,31 @@
+{
+  "name": "s-alternatif",
+  "version": "0.0.1",
+  "description": "sarki alternatif simple api",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.36.0",
+    "iconv-lite": "^0.4.3"
+  },
+  "devDependencies": {
+     "mocha": "~1.17.1",
+    "expect.js": "~0.2.0"
+    },
+  "scripts": {
+    "test": "mocha test.js --reporter spec"
+  },
+  "keywords": [
+    "api",
+    "lycris"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cobaimelan/s-alternatif.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cobaimelan/s-alternatif/issues"
+  },
+  "author": "Ayhan Kuru <ayhankuru@yandex.com.tr>",
+  "license": "ISC"
+}
