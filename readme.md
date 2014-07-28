@@ -26,6 +26,7 @@ var sa = salternatif();
 
 #### params
   * **artist:** Artist Name
+  * **title:** Song Title
 
 ```js
 salternatif.search({artist:"Emre Aydın"},function(err,data){
