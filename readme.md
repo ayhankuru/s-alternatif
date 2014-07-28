@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cobaimelan/s-alternatif.png?branch=master)](https://travis-ci.org/cobaimelan/s-alternatif)
+[![Build Status](http://img.shields.io/travis/cobaimelan/s-alternatif.svg?style=flat)](https://travis-ci.org/cobaimelan/s-alternatif)
 
 
 sarki.alternatifim.com simple api
