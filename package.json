@@ -5,8 +5,8 @@
   "main": "./lib/index.js",
   "dependencies": {
     "cheerio": "^0.17.0",
-    "iconv-lite": "^0.4.3",
-    "request": "^2.36.0"
+    "iconv-lite": "^0.4.4",
+    "request": "^2.39.0"
   },
   "devDependencies": {
     "mocha": "~1.17.1",
