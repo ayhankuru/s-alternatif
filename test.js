@@ -4,12 +4,12 @@ var expect = require('expect.js');
 var sa =salternatif();
 describe('Search Test!!!...', function(){
 	it('Search Test :1 ', function(done){
-		sa.search({artist:"Emre Aydın"},function(err,data){
+		sa.search({artist:"Emre Aydın",title:"Belki bir gün"},function(err,data){
 			expect(err).to.exist;
 			expect(data).to.be.an('object');
-			expect(data.lyrics).to.have.length(50);
-			expect(data.lyrics[0].id).to.eql(21805);
-			expect(data.lyrics[0].title).to.eql('Afili Yalnızlık');
+			expect(data.lyrics).to.have.length(1);
+			expect(data.lyrics[0].id).to.eql(12572);
+			expect(data.lyrics[0].name).to.eql('Belki Bir Gün Özlersin');
 			done();
 		});
 	});

@@ -1,6 +1,6 @@
 {
   "name": "s-alternatif",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "sarki alternatif simple api",
   "main": "./lib/index.js",
   "dependencies": {
