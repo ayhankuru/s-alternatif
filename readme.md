@@ -1,6 +1,8 @@
 [![Build Status](http://img.shields.io/travis/ayhankuru/s-alternatif.svg?style=flat-square)](https://travis-ci.org/ayhankuru/s-alternatif)
 
 
+[![Build Status](https://img.shields.io/david/ayhankuru/s-alternatif.svg?style=flat-square)](https://david-dm.org/ayhankuru/s-alternatif)
+
 sarki.alternatifim.com simple api
 
 
