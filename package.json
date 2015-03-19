@@ -1,19 +1,20 @@
 {
   "name": "s-alternatif",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "sarki alternatif simple api",
   "main": "./lib/index.js",
   "dependencies": {
-    "cheerio": "^0.17.0",
-    "iconv-lite": "^0.4.4",
-    "request": "^2.39.0"
+    "bluebird": "^2.9.14",
+    "cheerio": "^0.18.0",
+    "iconv-lite": "^0.4.7",
+    "request-promise": "^0.4.0"
   },
   "devDependencies": {
     "mocha": "~1.17.1",
     "expect.js": "~0.2.0"
   },
   "scripts": {
-    "test": "mocha test.js --reporter spec"
+    "test": "iojs node_modules/mocha/bin/mocha test.js --reporter spec --timeout 15000"
   },
   "keywords": [
     "api",
@@ -27,5 +28,5 @@
     "url": "https://github.com/cobaimelan/s-alternatif/issues"
   },
   "author": "Ayhan Kuru <ayhankuru@yandex.com.tr>",
-  "license": "ISC"
+  "license": "MIT"
 }
