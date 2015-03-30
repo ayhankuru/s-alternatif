@@ -1,4 +1,5 @@
-[![Build Status](http://img.shields.io/travis/ayhankuru/s-alternatif.svg?style=flat-square)](https://travis-ci.org/ayhankuru/s-alternatif) [![Build Status](https://img.shields.io/david/ayhankuru/s-alternatif.svg?style=flat-square)](https://david-dm.org/ayhankuru/s-alternatif) [![io.js supported](https://img.shields.io/badge/io.js-supported-green.svg?style=flat-square)](https://iojs.org)
+[![Travis Build Status](http://img.shields.io/travis/ayhankuru/s-alternatif.svg?style=flat-square)](https://travis-ci.org/ayhankuru/s-alternatif) [![Circle Build Status](https://img.shields.io/circleci/project/ayhankuru/s-alternatif.svg?style=flat-square)](https://circleci.com/gh/ayhankuru/s-alternatif) [![Build Status](https://img.shields.io/david/ayhankuru/s-alternatif.svg?style=flat-square)](https://david-dm.org/ayhankuru/s-alternatif) [![io.js supported](https://img.shields.io/badge/io.js-supported-green.svg?style=flat-square)](https://iojs.org)
+
 
 sarki.alternatifim.com simple api
 
