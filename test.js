@@ -6,13 +6,13 @@ describe('Test!!!...', function(){
 	
 	it(' Search Test  : ', function () {
 
-	return salternatif.search({artist:"Emre Aydın",track:"Afili Yalnızlık"})
+	return salternatif.search({artist:"Emre Aydın"})
 			.then(function(data){
 					
 			expect(data).to.be.an('object');
-			expect(data.lyrics).to.have.length(1);
-			expect(data.lyrics[0].id).to.eql(12572);
-			expect(data.lyrics[0].name).to.eql('Belki Bir Gün Özlersin');
+			expect(data).to.have.length(52);
+			expect(data[0].id).to.eql(21805);
+			expect(data[0].name).to.eql('Afili Yalnızlık');
 
 			})
 
@@ -26,7 +26,7 @@ describe('Test!!!...', function(){
 				
 			expect(data).to.be.an('object');
 			expect(data.title).to.eql('Emre Aydın - Afili Yalnızlık');
-			expect(data.body).to.eql('\r\nÖlsem (ölsem), ölsem (ölsem), ölsem... hemen şimdi \r\nKaçsam (kaçsam), gitsem (gitsem), kaçsam... tam da şimdi \r\n\r\nBu kez pek bir afili yalnızlık \r\nAldatan bir kadın kadar düşman \r\nAğzı bozuk üstelik bırakmıyor acıtmadan \r\nBu kez pek bir afili yalnızlık \r\nAğlayan bir kadın kadar düşman \r\nTuzaklar kurmuş üstelik \r\nBırakmıyor acıtmadan \r\n\r\nBitiyorum her nefeste \r\nNe halim varsa gördüm \r\nÇok koştum, çok yoruldum \r\nVe şimdi ben de düştüm...\r\nx2\r\n\r\n\r\nSövdüm (sövdüm), sövdüm (sövdüm), sövdüm ben dünyaya \r\nAcılara, sokaklara, ait olmaya, insanlara \r \n\r\nBu kez pek bir afili yalnızlık \r\nAldatan bir kadın kadar düşman \r\nAğzı bozuk üstelik bırakmıyor acıtmadan \r\nBu kez pek bir afili yalnızlık \r\nAğlayan bir kadın kadar düşman \r\nTuzaklar kurmuş üstelik \r\nBırakmıyor acıtmadan \r\n\r\nBitiyorum her nefeste \r\nNe halim varsa gördüm \r\nÇok koştum, çok yoruldum \r\nVe şimdi ben de düştüm...\r\nx2\r\n\r\nDeğmezmiş hiç uğraşmaya\r\nBu kez mecalim yok hiç dayanmaya.. dayanmaya..\r\n\r\nBitiyorum her nefeste \r\nNe halim varsa gördüm \r\nÇok koştum, çok yoruldum \r\nVe şimdi ben de düştüm...\r\nx2 \r\n\n\r\n\r\n \r\n\r\n\r\n \r\n\r\n\r\n');
+			expect(data.body).to.eql("Ölsem (ölsem), ölsem (ölsem), ölsem... hemen şimdi \r\nKaçsam (kaçsam), gitsem (gitsem), kaçsam... tam da şimdi \r\n\r\nBu kez pek bir afili yalnızlık \r\nAldatan bir kadın kadar düşman \r\nAğzı bozuk üstelik bırakmıyor acıtmadan \r\nBu kez pek bir afili yalnızlık \r\nAğlayan bir kadın kadar düşman \r\nTuzaklar kurmuş üstelik \r\nBırakmıyor acıtmadan \r\n\r\nBitiyorum her nefeste \r\nNe halim varsa gördüm \r\nÇok koştum, çok yoruldum \r\nVe şimdi ben de düştüm...\r\nx2\r\n\r\n\r\nSövdüm (sövdüm), sövdüm (sövdüm), sövdüm ben dünyaya \r\nAcılara, sokaklara, ait olmaya, insanlara \r\r\n\r\n\t\t\r\n\r\n\r\n\n\r\n\n\r\nBu kez pek bir afili yalnızlık \r\nAldatan bir kadın kadar düşman \r\nAğzı bozuk üstelik bırakmıyor acıtmadan \r\nBu kez pek bir afili yalnızlık \r\nAğlayan bir kadın kadar düşman \r\nTuzaklar kurmuş üstelik \r\nBırakmıyor acıtmadan \r\n\r\nBitiyorum her nefeste \r\nNe halim varsa gördüm \r\nÇok koştum, çok yoruldum \r\nVe şimdi ben de düştüm...\r\nx2\r\n\r\nDeğmezmiş hiç uğraşmaya\r\nBu kez mecalim yok hiç dayanmaya.. dayanmaya..\r\n\r\nBitiyorum her nefeste \r\nNe halim varsa gördüm \r\nÇok koştum, çok yoruldum \r\nVe şimdi ben de düştüm...\r\nx2");
 
 			})
 	});
