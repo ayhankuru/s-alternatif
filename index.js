@@ -47,12 +47,10 @@ var search = function Search(obj){
 		            }
 		            
 		          });
-	      	
-	      	delete lyrics[lyrics.length-1]; // remove adds text
-	      	
+	      	delete lyrics[0]; // remove adds text 
+	      	delete lyrics.pop(); // remove adds text 
 
-
-	        return lyrics;
+	        return lyrics.sort();
 		  		
 		  }).then(function(lyrics){
 		  		resolve(lyrics);

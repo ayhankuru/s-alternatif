@@ -6,7 +6,7 @@
   "dependencies": {
     "bluebird": "^2.9.14",
     "cheerio": "^0.19.0",
-    "got-promise": "^3.0.1",
+    "got-promise": "^4.1.0",
     "iconv-lite": "^0.4.7",
     "native-or-bluebird": "^1.2.0"
   },

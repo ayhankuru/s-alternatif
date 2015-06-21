@@ -6,3 +6,4 @@ salternatif.show(21805)
 	console.log(data);
 
 })
+ 
