@@ -21,7 +21,7 @@ var salternatif = require('s-alternatif');
 #### Search
 
 ```js
-salternatif.search({artist:"Emre Aydın",track:"Afili Yalnızlık"})
+salternatif.search({artist:"Emre Aydın",song:"Afili Yalnızlık"})
 .then(function(data){
      console.log(data);
 }).catch(function(err){
