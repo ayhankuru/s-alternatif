@@ -1,6 +1,6 @@
 var salternatif =require('./index.js');
 
-salternatif.search({artist:'Emre Aydın',song:'Eylül'})
+salternatif.search({artist:"Emre Aydın"})
 .then(function(data){
      console.log(data);
 }).catch(function(err){

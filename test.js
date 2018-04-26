@@ -11,8 +11,8 @@ describe('Test!!!...', function(){
 				
 			expect(data).to.be.an('object');
 			expect(data).to.have.length(51);
-			expect(data[0].id).to.eql(248916);
-			expect(data[0].name).to.eql('Eylül');
+			expect(data[0].path).to.eql('/sarkici/emre-aydin/afili-yalnizlik');
+			expect(data[0].name).to.eql('Afili Yalnızlık');
 
 			})
 

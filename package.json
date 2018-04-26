@@ -1,18 +1,17 @@
 {
   "name": "s-alternatif",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "sarki alternatif simple api",
   "main": "./lib/index.js",
   "dependencies": {
-    "array-flatten": "^2.0.0",
-    "cheerio": "^0.19.0",
-    "got": "^5.2.0",
-    "iconv-lite": "^0.4.13",
-    "object-assign": "^4.0.1"
+    "array-flatten": "^2.1.1",
+    "cheerio": "^1.0.0-rc.2",
+    "got": "5.2.0",
+    "query-string": "^6.0.0"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
-    "mocha": "^2.3.4"
+    "mocha": "^5.1.1"
   },
   "scripts": {
     "test": "mocha test.js --reporter spec --timeout 15000"
@@ -23,11 +22,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:cobaimelan/s-alternatif.git"
+    "url": "git@github.com:c0b41/s-alternatif.git"
   },
   "bugs": {
-    "url": "https://github.com/cobaimelan/s-alternatif/issues"
+    "url": "https://github.com/c0b41/s-alternatif/issues"
   },
-  "author": "Ayhan Kuru <ayhankuru@yandex.com.tr>",
+  "author": "c0b41",
   "license": "MIT"
 }

@@ -8,13 +8,17 @@ module.exports.search = function Search(params){
 
  return new Promise(function(resolve, reject) {
      var uri = `${url}listele.asp?`;
+     let path = ''
      var nParams = objectAssign({artist: null,song:null}, params);
 
      if(nParams.artist && nParams.song){
-       uri =`${uri}fsarkici=${escape(nParams.artist)}&fsarki=${escape(nParams.song)}`;
+      path =`fsarkici=${escape(nParams.artist)}&fsarki=${escape(nParams.song)}`;
      }else if(!nParams.song){
-       uri =`${uri}fsarkici=${escape(nParams.artist)}`;
+      path =`fsarkici=${escape(nParams.artist)}`;
      }
+
+     uri =`${uri}${path}`
+     
      util.decode(uri).then(function(body){
        var songcheck = util.check(body);
 
