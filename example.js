@@ -9,7 +9,7 @@ salternatif.search({artist:"Emre Aydın"})
 
 console.log('----------');
 
-salternatif.show(21805)
+salternatif.show('sarkici/emre-aydin/afili-yalnizlik')
 .then(function(data){
      console.log(data);
 }).catch(function(err){

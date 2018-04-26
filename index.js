@@ -55,16 +55,16 @@ module.exports.search = function Search(params){
 
 }
 
- module.exports.show = function Show(id){
+ module.exports.show = function Show(path){
 
    return new Promise(function (resolve, reject) {
-      if(id){
-        var uri =`${url}data.asp?ID=${escape(id)}`;
+      if(path){
+        var uri =`${url}${path}`;
         resolve(util.decode(uri).then(body => {
           return util.lyric(body);
         }));
       }else{
-        reject(new Error('Parametre eksik'));
+        reject(new Error('Path eksik'));
       }
    });
 

@@ -32,7 +32,7 @@ salternatif.search({artist:"Emre Aydın",song:"Afili Yalnızlık"})
 #### Show
 
 ```js
-salternatif.show(21805)
+salternatif.show('xxxx')
 .then(function(data){
      console.log(data);
 }).catch(function(err){
