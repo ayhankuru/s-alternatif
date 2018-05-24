@@ -6,7 +6,7 @@
   "scripts": {
     "prepublishOnly": "npm run build",
     "build": "babel ./lib --out-dir ./dist",
-    "test": "jest -u"
+    "test": "jest"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
@@ -25,7 +25,7 @@
   },
   "keywords": [
     "api",
-    "lycris"
+    "lyrics"
   ],
   "engines": {
     "node": ">=6"
