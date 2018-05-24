@@ -1,0 +1,463 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`S-alternatif Test Search Snapshot must be equal 1`] = `
+Array [
+  Object {
+    "name": "Afili Yalnızlık",
+    "path": "/sarkici/emre-aydin/afili-yalnizlik",
+  },
+  Object {
+    "name": "Akşamlarda Parmak İzlerin",
+    "path": "/sarkici/emre-aydin/aksamlarda-parmak-izlerin",
+  },
+  Object {
+    "name": "Alıştım Susmaya",
+    "path": "/sarkici/emre-aydin/alistim-susmaya",
+  },
+  Object {
+    "name": "Artık Özlemek İstemiyorum",
+    "path": "/sarkici/emre-aydin/artik-ozlemek-istemiyorum",
+  },
+  Object {
+    "name": "Asil Yaşlar",
+    "path": "/sarkici/emre-aydin/asil-yaslar",
+  },
+  Object {
+    "name": "Ayrı Ayrı",
+    "path": "/sarkici/emre-aydin/ayri-ayri",
+  },
+  Object {
+    "name": "Belalım",
+    "path": "/sarkici/emre-aydin/belalim",
+  },
+  Object {
+    "name": "Belki Bir Gün Özlersin",
+    "path": "/sarkici/emre-aydin/belki-bir-gun-ozlersin",
+  },
+  Object {
+    "name": "Beni Biraz Böyle Hatırla",
+    "path": "/sarkici/emre-aydin/beni-biraz-boyle-hatirla",
+  },
+  Object {
+    "name": "Beni Unutma",
+    "path": "/sarkici/emre-aydin/beni-unutma",
+  },
+  Object {
+    "name": "Bir Pazar Kahvaltısı (feat. Model)",
+    "path": "/sarkici/emre-aydin/bir-pazar-kahvaltisi-feat-model",
+  },
+  Object {
+    "name": "Bir Pazar Kahvaltısı (Ft. Model)",
+    "path": "/sarkici/emre-aydin/bir-pazar-kahvaltisi-ft-model",
+  },
+  Object {
+    "name": "Bir Teselli Ver",
+    "path": "/sarkici/emre-aydin/bir-teselli-ver",
+  },
+  Object {
+    "name": "Bitti Tebrikler",
+    "path": "/sarkici/emre-aydin/bitti-tebrikler",
+  },
+  Object {
+    "name": "Bu Kez Anladım",
+    "path": "/sarkici/emre-aydin/bu-kez-anladim",
+  },
+  Object {
+    "name": "Bu Yağmurlar",
+    "path": "/sarkici/emre-aydin/bu-yagmurlar",
+  },
+  Object {
+    "name": "Buralar Yalan",
+    "path": "/sarkici/emre-aydin/buralar-yalan",
+  },
+  Object {
+    "name": "Çalma Açmam Kapıyı",
+    "path": "/sarkici/emre-aydin/calma-acmam-kapiyi",
+  },
+  Object {
+    "name": "Çığlık Çığlığa",
+    "path": "/sarkici/emre-aydin/ciglik-cigliga",
+  },
+  Object {
+    "name": "Dağlar Dağlar",
+    "path": "/sarkici/emre-aydin/daglar-daglar",
+  },
+  Object {
+    "name": "Dayan Yalnızlığım",
+    "path": "/sarkici/emre-aydin/dayan-yalnizligim",
+  },
+  Object {
+    "name": "Dipteyim Sondayım Depresyondayım",
+    "path": "/sarkici/emre-aydin/dipteyim-sondayim-depresyondayim",
+  },
+  Object {
+    "name": "Dönersen",
+    "path": "/sarkici/emre-aydin/donersen",
+  },
+  Object {
+    "name": "Duymak İstiyorum",
+    "path": "/sarkici/emre-aydin/duymak-istiyorum",
+  },
+  Object {
+    "name": "Eylül",
+    "path": "/sarkici/emre-aydin/eylul",
+  },
+  Object {
+    "name": "Eyvah",
+    "path": "/sarkici/emre-aydin/eyvah",
+  },
+  Object {
+    "name": "Falling Down",
+    "path": "/sarkici/emre-aydin/falling-down",
+  },
+  Object {
+    "name": "Geceler Kara Tren",
+    "path": "/sarkici/emre-aydin/geceler-kara-tren",
+  },
+  Object {
+    "name": "Geçen Cuma",
+    "path": "/sarkici/emre-aydin/gecen-cuma",
+  },
+  Object {
+    "name": "Geniş Zamanlar Yok",
+    "path": "/sarkici/emre-aydin/genis-zamanlar-yok",
+  },
+  Object {
+    "name": "Git",
+    "path": "/sarkici/emre-aydin/git",
+  },
+  Object {
+    "name": "Hareket Vakti",
+    "path": "/sarkici/emre-aydin/hareket-vakti",
+  },
+  Object {
+    "name": "Her Şeyden Çok",
+    "path": "/sarkici/emre-aydin/her-seyden-cok",
+  },
+  Object {
+    "name": "Hoşçakal",
+    "path": "/sarkici/emre-aydin/hoscakal",
+  },
+  Object {
+    "name": "İhtiyacım Var Sana",
+    "path": "/sarkici/emre-aydin/ihtiyacim-var-sana",
+  },
+  Object {
+    "name": "Kağıt Evler",
+    "path": "/sarkici/emre-aydin/kagit-evler",
+  },
+  Object {
+    "name": "Kal Benim İçin",
+    "path": "/sarkici/emre-aydin/kal-benim-icin",
+  },
+  Object {
+    "name": "Kalan Sağlar Senin Olsun",
+    "path": "/sarkici/emre-aydin/kalan-saglar-senin-olsun",
+  },
+  Object {
+    "name": "Kim Dokunduysa Sana Ona Git",
+    "path": "/sarkici/emre-aydin/kim-dokunduysa-sana-ona-git",
+  },
+  Object {
+    "name": "Kimse Olmadı Senin Gibi",
+    "path": "/sarkici/emre-aydin/kimse-olmadi-senin-gibi",
+  },
+  Object {
+    "name": "Koyver Gitsin",
+    "path": "/sarkici/emre-aydin/koyver-gitsin",
+  },
+  Object {
+    "name": "Kör Talih",
+    "path": "/sarkici/emre-aydin/kor-talih",
+  },
+  Object {
+    "name": "Ölüm Kalım Meselesi (Ft. Yaprak Çamlıca)",
+    "path": "/sarkici/emre-aydin/olum-kalim-meselesi-ft-yaprak-camlica",
+  },
+  Object {
+    "name": "Ölünmüyor",
+    "path": "/sarkici/emre-aydin/olunmuyor",
+  },
+  Object {
+    "name": "Rüyamdaki Aptal Kadın",
+    "path": "/sarkici/emre-aydin/ruyamdaki-aptal-kadin",
+  },
+  Object {
+    "name": "Sabuha",
+    "path": "/sarkici/emre-aydin/sabuha",
+  },
+  Object {
+    "name": "Sakın Gelme",
+    "path": "/sarkici/emre-aydin/sakin-gelme",
+  },
+  Object {
+    "name": "Sen Anlarsın",
+    "path": "/sarkici/emre-aydin/sen-anlarsin",
+  },
+  Object {
+    "name": "Sen Beni Unutamazsın",
+    "path": "/sarkici/emre-aydin/sen-beni-unutamazsin",
+  },
+  Object {
+    "name": "Sen Gitme",
+    "path": "/sarkici/emre-aydin/sen-gitme",
+  },
+  Object {
+    "name": "Afili Yalnızlık",
+    "path": "/sarkici/emre-aydin/afili-yalnizlik",
+  },
+  Object {
+    "name": "Akşamlarda Parmak İzlerin",
+    "path": "/sarkici/emre-aydin/aksamlarda-parmak-izlerin",
+  },
+  Object {
+    "name": "Alıştım Susmaya",
+    "path": "/sarkici/emre-aydin/alistim-susmaya",
+  },
+  Object {
+    "name": "Artık Özlemek İstemiyorum",
+    "path": "/sarkici/emre-aydin/artik-ozlemek-istemiyorum",
+  },
+  Object {
+    "name": "Asil Yaşlar",
+    "path": "/sarkici/emre-aydin/asil-yaslar",
+  },
+  Object {
+    "name": "Ayrı Ayrı",
+    "path": "/sarkici/emre-aydin/ayri-ayri",
+  },
+  Object {
+    "name": "Belalım",
+    "path": "/sarkici/emre-aydin/belalim",
+  },
+  Object {
+    "name": "Belki Bir Gün Özlersin",
+    "path": "/sarkici/emre-aydin/belki-bir-gun-ozlersin",
+  },
+  Object {
+    "name": "Beni Biraz Böyle Hatırla",
+    "path": "/sarkici/emre-aydin/beni-biraz-boyle-hatirla",
+  },
+  Object {
+    "name": "Beni Unutma",
+    "path": "/sarkici/emre-aydin/beni-unutma",
+  },
+  Object {
+    "name": "Bir Pazar Kahvaltısı (feat. Model)",
+    "path": "/sarkici/emre-aydin/bir-pazar-kahvaltisi-feat-model",
+  },
+  Object {
+    "name": "Bir Pazar Kahvaltısı (Ft. Model)",
+    "path": "/sarkici/emre-aydin/bir-pazar-kahvaltisi-ft-model",
+  },
+  Object {
+    "name": "Bir Teselli Ver",
+    "path": "/sarkici/emre-aydin/bir-teselli-ver",
+  },
+  Object {
+    "name": "Bitti Tebrikler",
+    "path": "/sarkici/emre-aydin/bitti-tebrikler",
+  },
+  Object {
+    "name": "Bu Kez Anladım",
+    "path": "/sarkici/emre-aydin/bu-kez-anladim",
+  },
+  Object {
+    "name": "Bu Yağmurlar",
+    "path": "/sarkici/emre-aydin/bu-yagmurlar",
+  },
+  Object {
+    "name": "Buralar Yalan",
+    "path": "/sarkici/emre-aydin/buralar-yalan",
+  },
+  Object {
+    "name": "Çalma Açmam Kapıyı",
+    "path": "/sarkici/emre-aydin/calma-acmam-kapiyi",
+  },
+  Object {
+    "name": "Çığlık Çığlığa",
+    "path": "/sarkici/emre-aydin/ciglik-cigliga",
+  },
+  Object {
+    "name": "Dağlar Dağlar",
+    "path": "/sarkici/emre-aydin/daglar-daglar",
+  },
+  Object {
+    "name": "Dayan Yalnızlığım",
+    "path": "/sarkici/emre-aydin/dayan-yalnizligim",
+  },
+  Object {
+    "name": "Dipteyim Sondayım Depresyondayım",
+    "path": "/sarkici/emre-aydin/dipteyim-sondayim-depresyondayim",
+  },
+  Object {
+    "name": "Dönersen",
+    "path": "/sarkici/emre-aydin/donersen",
+  },
+  Object {
+    "name": "Duymak İstiyorum",
+    "path": "/sarkici/emre-aydin/duymak-istiyorum",
+  },
+  Object {
+    "name": "Eylül",
+    "path": "/sarkici/emre-aydin/eylul",
+  },
+  Object {
+    "name": "Eyvah",
+    "path": "/sarkici/emre-aydin/eyvah",
+  },
+  Object {
+    "name": "Falling Down",
+    "path": "/sarkici/emre-aydin/falling-down",
+  },
+  Object {
+    "name": "Geceler Kara Tren",
+    "path": "/sarkici/emre-aydin/geceler-kara-tren",
+  },
+  Object {
+    "name": "Geçen Cuma",
+    "path": "/sarkici/emre-aydin/gecen-cuma",
+  },
+  Object {
+    "name": "Geniş Zamanlar Yok",
+    "path": "/sarkici/emre-aydin/genis-zamanlar-yok",
+  },
+  Object {
+    "name": "Git",
+    "path": "/sarkici/emre-aydin/git",
+  },
+  Object {
+    "name": "Hareket Vakti",
+    "path": "/sarkici/emre-aydin/hareket-vakti",
+  },
+  Object {
+    "name": "Her Şeyden Çok",
+    "path": "/sarkici/emre-aydin/her-seyden-cok",
+  },
+  Object {
+    "name": "Hoşçakal",
+    "path": "/sarkici/emre-aydin/hoscakal",
+  },
+  Object {
+    "name": "İhtiyacım Var Sana",
+    "path": "/sarkici/emre-aydin/ihtiyacim-var-sana",
+  },
+  Object {
+    "name": "Kağıt Evler",
+    "path": "/sarkici/emre-aydin/kagit-evler",
+  },
+  Object {
+    "name": "Kal Benim İçin",
+    "path": "/sarkici/emre-aydin/kal-benim-icin",
+  },
+  Object {
+    "name": "Kalan Sağlar Senin Olsun",
+    "path": "/sarkici/emre-aydin/kalan-saglar-senin-olsun",
+  },
+  Object {
+    "name": "Kim Dokunduysa Sana Ona Git",
+    "path": "/sarkici/emre-aydin/kim-dokunduysa-sana-ona-git",
+  },
+  Object {
+    "name": "Kimse Olmadı Senin Gibi",
+    "path": "/sarkici/emre-aydin/kimse-olmadi-senin-gibi",
+  },
+  Object {
+    "name": "Koyver Gitsin",
+    "path": "/sarkici/emre-aydin/koyver-gitsin",
+  },
+  Object {
+    "name": "Kör Talih",
+    "path": "/sarkici/emre-aydin/kor-talih",
+  },
+  Object {
+    "name": "Ölüm Kalım Meselesi (Ft. Yaprak Çamlıca)",
+    "path": "/sarkici/emre-aydin/olum-kalim-meselesi-ft-yaprak-camlica",
+  },
+  Object {
+    "name": "Ölünmüyor",
+    "path": "/sarkici/emre-aydin/olunmuyor",
+  },
+  Object {
+    "name": "Rüyamdaki Aptal Kadın",
+    "path": "/sarkici/emre-aydin/ruyamdaki-aptal-kadin",
+  },
+  Object {
+    "name": "Sabuha",
+    "path": "/sarkici/emre-aydin/sabuha",
+  },
+  Object {
+    "name": "Sakın Gelme",
+    "path": "/sarkici/emre-aydin/sakin-gelme",
+  },
+  Object {
+    "name": "Sen Anlarsın",
+    "path": "/sarkici/emre-aydin/sen-anlarsin",
+  },
+  Object {
+    "name": "Sen Beni Unutamazsın",
+    "path": "/sarkici/emre-aydin/sen-beni-unutamazsin",
+  },
+  Object {
+    "name": "Sen Gitme",
+    "path": "/sarkici/emre-aydin/sen-gitme",
+  },
+]
+`;
+
+exports[`S-alternatif Test Show Snapshotmust be equal 1`] = `
+Object {
+  "content": "
+Ölsem (ölsem), ölsem (ölsem), ölsem... hemen şimdi 
+Kaçsam (kaçsam), gitsem (gitsem), kaçsam... tam da şimdi 
+
+Bu kez pek bir afili yalnızlık 
+Aldatan bir kadın kadar düşman 
+Ağzı bozuk üstelik bırakmıyor acıtmadan 
+Bu kez pek bir afili yalnızlık 
+Ağlayan bir kadın kadar düşman 
+Tuzaklar kurmuş üstelik 
+Bırakmıyor acıtmadan 
+
+Bitiyorum her nefeste 
+Ne halim varsa gördüm 
+Çok koştum, çok yoruldum 
+Ve şimdi ben de düştüm...
+x2
+
+
+Sövdüm (sövdüm), sövdüm (sövdüm), sövdüm ben dünyaya 
+Acılara, sokaklara, ait olmaya, insanlara 
+
+Bu kez pek bir afili yalnızlık 
+
+
+
+[ reklamı gizle / hide ads ]Aldatan bir kadın kadar düşman 
+Ağzı bozuk üstelik bırakmıyor acıtmadan 
+Bu kez pek bir afili yalnızlık 
+Ağlayan bir kadın kadar düşman 
+Tuzaklar kurmuş üstelik 
+Bırakmıyor acıtmadan 
+
+Bitiyorum her nefeste 
+Ne halim varsa gördüm 
+Çok koştum, çok yoruldum 
+Ve şimdi ben de düştüm...
+x2
+
+Değmezmiş hiç uğraşmaya
+Bu kez mecalim yok hiç dayanmaya.. dayanmaya..
+
+Bitiyorum her nefeste 
+Ne halim varsa gördüm 
+Çok koştum, çok yoruldum 
+Ve şimdi ben de düştüm...
+x2
+
+
+
+",
+  "title": "Emre Aydın - Afili Yalnızlık",
+}
+`;

@@ -1,25 +1,36 @@
 {
   "name": "s-alternatif",
-  "version": "0.3.0",
-  "description": "sarki alternatif simple api",
-  "main": "./lib/index.js",
+  "version": "0.4.0",
+  "description": "Şarkı alternatif simple api",
+  "main": "./dist/index.js",
+  "scripts": {
+    "prepublishOnly": "npm run build",
+    "build": "babel ./lib --out-dir ./dist",
+    "test": "jest -u"
+  },
   "dependencies": {
-    "array-flatten": "^2.1.1",
     "cheerio": "^1.0.0-rc.2",
     "got": "5.2.0",
     "query-string": "^6.0.0"
   },
   "devDependencies": {
-    "expect.js": "^0.3.1",
-    "mocha": "^5.1.1"
-  },
-  "scripts": {
-    "test": "mocha test.js --reporter spec --timeout 15000"
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^22.4.4",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.4",
+    "jest-cli": "^22.4.4",
+    "regenerator-runtime": "^0.11.1"
   },
   "keywords": [
     "api",
     "lycris"
   ],
+  "engines": {
+    "node": ">=6"
+  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:c0b41/s-alternatif.git"
@@ -27,6 +38,5 @@
   "bugs": {
     "url": "https://github.com/c0b41/s-alternatif/issues"
   },
-  "author": "c0b41",
-  "license": "MIT"
+  "homepage": "https://github.com/c0b41/s-alternatif"
 }
