@@ -1,6 +1,6 @@
 {
   "name": "s-alternatif",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Şarkı alternatif simple api",
   "main": "./dist/index.js",
   "scripts": {
